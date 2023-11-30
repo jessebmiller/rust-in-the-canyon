@@ -71,10 +71,15 @@ that groups goals.
 * The State of Law
 * An Outlaw crew
 
+1. Assign 1, 2, and 3 to their Mind, Body, and Grip stats.
+2. Describe your hat, coat, and grip (deadly weapon)
+3. Describe your vice (vice, guilty pleasure, what lets you unwind the best)
+3. Choose a trait from the trait deck (If I've made it, otherwise do without)  
+
 # Playing the game
 
 This section **should** be written directly to players. "You" in this section
-should refer to a player. I doubt it does. It need editing. Bear with me.
+should refer to a player. I doubt it does. needs editing. Bear with me.
 
 ## Freeplay
 
@@ -83,6 +88,40 @@ conversation as has been described many times before. For the sake of brevity
 and the play test audience who knows this stuff, I'll leave the writing of this
 section to later. If you are play testing and you don't know this stuff let me
 know!
+
+### Basic Moves
+
+**Read a Person or Situation**
+
+**Put in the Work**
+
+When you **Plan and Scheme**, going back and forth about what you're going to
+do, considering all options and all eventualities, move 2 chips from your
+character stack to your stress stack. Keep moving 2 when the GM says so as long
+as your planning and scheming. (Not sure if this is better than just urging
+players to go take some action, but maybe it works?)
+
+When you say **We Planned for This** then say how you've planned for the
+current situation, the GM tells you how much stress it costs (the less
+believable the higher cost). If the group moves that many tokens in aggregate
+from their character stacks to their stress stacks, y'all did plan for this.
+Otherwise you can continue without it.
+
+When you **Send for Help** from outside the town, either to your organization,
+another organization, or even a personal connection, name the NPC, say how you
+know them, and say how you're sending word. Tell the GM what you hope they'll
+do and what you're worthey'll do instead. The GM starts a clock with your
+hope and your fear on it. When that clock expires, you'll know one way or
+antoher even if it's not any of what you hoped or feared. It could be worse
+than you feared, or even something you haven't thought of. 
+
+### Resolution moves
+
+When you look back at your time in a town and **Reflect on how You Changed it**
+when the town stack is 21 or less. Someone plays a hand of blackjack against
+the town's remaining stack total. If that hand beats the total, those changes
+are permenant, otherwise the town will revert to it's old ways not long after
+y'all leave, or those changes never quite occured. 
 
 ## Conflicts
 
@@ -376,11 +415,6 @@ After a conflict you'll often want to take some downtime to rest and recover, or
 to let things cool off a bit. You might even want to do that after some freeplay
 too. You can take downtime whenever they want.
 
-Whenever you go into downtime, the GM deals a hand. Anyone whose stress stack is
-higher than that hand may move that hand's number of chips from their stress
-stack into their character stack. Everyone else may move
-10.
-
 ### Downtime Moves
 
 When you stop to **Get Metical Attention**:
@@ -399,6 +433,36 @@ When you stop to **Get Metical Attention**:
   if it gets worse as though no treatment were tried.
 
 This move can only be made once per injury per downtime.
+
+
+When you **Get a Good Night's Sleep** in a real bed, out of the cold, away from
+the elements, without distractions like someone snoring beside you waking you
+up all night. you may move 5 chips from your stress stack to your character
+stack.
+
+When you **Take a Day Off** to unwind, describe what you do, other characters
+can come along, freeplay a little if y'all want but keep it short (this is just
+one move), then, everyone who took a day off, ask the GM what your floor is.
+
+Your floor starts at 0:
+* +5 for every bit of work you did
+* +5 if you didn't satisfy your vice
+* +5 if you were involved in violence (+5 more if it was deadly)
+
+Deal yourslef a hand of blackjack adding the floor to your total. If you bust
+you've overindulged and (something bad happens that I haven't written yet).
+Otherwise you may move a number of chips equal to the total of the cards dealt
+(not the floor) from your stress stack to your character stack.
+
+### Advancement
+
+Between towns, you can spend your chatacter stack chips on advancement. Buy
+traits, improve stats, boost your base stack size. Any chips over your base
+stack size will be lost when you reset to your base stack size when visiting
+the next town, so spend em if ya got em.
+
+I haven't figured out costs and such, but take a look at what you've got and
+see what feels fair. Let me know how you handled it! 
 
 ## Running the game
 
@@ -441,7 +505,8 @@ something. Tell me how it goes.
 
 #### The Town Stack
 
-Towns have a stack (is this like mystery complexity in BB?!?)
+Towns have a stack. It represents the balance of effect that the town has had
+on the players and that the players have had on the town.
 
 #### Between sessions
 
@@ -455,8 +520,6 @@ downtime moves, with trait moves, or whatever.
 
 ### What about? And Notes.
 
-Talk about the Town Stack somewhere
-
 When someone stays they can raise if they want to, but otherwise no more bets.
 their opponent can see and then finish out their hand.
 
@@ -465,3 +528,5 @@ game? How much precurser technology is left working? Has the climate change
 woken anything ancient in the deep? Ask how weird, how sci-fi, how violent?
 incorporate lines and veils there.
 
+"move x from your stress stack to your character stack" is repeated a bunch.
+Let's abstract that out to something like "recover x from stress" or something
