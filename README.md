@@ -14,9 +14,9 @@ The game is about:
 
 This document is still in an early draft state. General information is in this file.
 
-[Moves](./moves.md)
-[Conflict, fallout, and injury](./conflict.md)
-[Towns](./towns.md)
+* [Moves](./moves.md)
+* [Conflict, fallout, and injury](./conflict.md)
+* [Towns](./towns.md)
 
 # Rust in the Canyon
 
