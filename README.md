@@ -2,13 +2,21 @@
 
 # Design Goals
 
-The game is about: 
+The game is about:
 
 * Investigating the human condition at different interacting scales. small
   groups, towns, cities, and larger political structures.
 * Being a good western
-* Exploring the folly of youthful moral richousness 
+* Exploring the folly of youthful moral richousness
 * The interaction between various kinds of power. Mental, Social, Violent.
+
+# Contents
+
+This document is still in an early draft state. General information is in this file.
+
+[Moves](./moves.md)
+[Conflict, fallout, and injury](./conflict.md)
+[Towns](./towns.md)
 
 # Rust in the Canyon
 
@@ -85,7 +93,7 @@ lilghtharted and optimistic. It works best to take the situations that the
 characters and towns find themselves in seriously and avoid slapstick or zany
 antics, though humor can be good, try to bring the tone back to a serious and
 honest examination of the town and the chracters situations if the humor
-spirals the table away from that. 
+spirals the table away from that.
 
 Rust in the Canyon includes themes of survival, crime, violence, oppression,
 poverty, religion, despiration, power dynamics, conflict.
@@ -136,11 +144,11 @@ find and define the space y'all want to play in.
 3. Decide how much technology and infrastructure has been rediscovered or
    reinvented (or newly invented even).
   * Are there radio communications between cities? How big are the cities that
-    have radios and radio operators? How many? How rare? 
+    have radios and radio operators? How many? How rare?
   * Are there moterized vehicals and tools? How many people can afford a car?
   * How good are the roads?
   * Is there a telegraph? Which towns have it? How much electrical power is
-    there? 
+    there?
 
 #  Creating Characters
 
@@ -156,7 +164,7 @@ find and define the space y'all want to play in.
 1. Assign 1, 2, and 3 to their Mind, Body, and Grip stats.
 2. Describe your hat, coat, and grip (deadly weapon)
 3. Describe your vice (vice, guilty pleasure, what lets you unwind the best)
-3. Choose a trait from the trait deck (If I've made it, otherwise do without)  
+3. Choose a trait from the trait deck (If I've made it, otherwise do without)
 
 # Playing the game
 
@@ -191,7 +199,7 @@ stack size will be lost when you reset to your base stack size when visiting
 the next town, so spend em if ya got em.
 
 I haven't figured out costs and such, but take a look at what you've got and
-see what feels fair. Let me know how you handled it! 
+see what feels fair. Let me know how you handled it!
 
 ## Running the game
 
