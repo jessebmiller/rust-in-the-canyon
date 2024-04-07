@@ -1,4 +1,9 @@
-<!--- These are authors notes --->
+// These are lines of authors notes
+
+/* 
+these are blocks of
+authors notes
+*/
 
 # Design Goals
 
@@ -7,7 +12,11 @@ The game is about:
 * Investigating the human condition at different interacting scales. small
   groups, towns, cities, and larger political structures.
 * Being a good western
-* Exploring the folly of youthful moral richousness 
+  * People can make a difference in a town
+  * People can leave town and reinvent themselves
+  * People are connected to a landscape
+* Exploring the folly of youthful moral richousness
+  * Or instead... youthful exploration of morality and justice
 * The interaction between various kinds of power. Mental, Social, Violent.
 
 # Rust in the Canyon
@@ -26,8 +35,10 @@ either way there's weird junk out there no one knows how to use so I suppose at
 this point it doesn't matter much. Now we've got towns to build, lives to live,
 settling to do.
 
-<!--- Open up that paragraph, The ideas are pretty tightly packed, especially
-in the first sentense. Establish one thing at a time. --->
+/*
+Open up that paragraph, The ideas are pretty tightly packed, especially
+in the first sentense. Establish one thing at a time.
+*/
 
 These days there is nothing like what the old stories call a nation (or state
 is it?) thought I guess there are some folks trying to say they're the state.
@@ -37,21 +48,14 @@ dramatically in the years following the war. It's hard to see what they could
 have been doing to raise the levels of the sea or change something like the
 weather of the whole world, but there is good evidence now of the sea rise.
 Coasts are often forested right to the water with dead treetops still poking
-their defiant heads out of the watter, receding into the depths of the sea,
-showing us the contoures of the sea floor as if the forest once claimed the
-whole area before the water came in. People also say they've dived down and saw
-the cities for themselves, and there are a few strange shining tops of
-buildings poking their penthouses and roof gardens out of the sea along some
-coasts too.
+their bald heads out of the watter, receding into the depths of the sea,
+showing us the contors of the sea floor as if the forest once claimed the whole
+area before the water came in. People also say they've dived down and saw the
+cities for themselves, and there are a few strange shining tops of buildings
+poking their penthouses and roof gardens out of the sea along some coasts too.
+I seen 'em.
 
-## Choose a Faction
-
-<!--- Change organization to faction for the 4 choices --->
-
-As a group, choose an independant faction to play as a team of their agents.
-These organizations operate independantly of any given city or town
-
-Choose from:
+Here are those folks trying to say they're the state I was talking about.
 
 * **The Librarians**, who are gathering, cataloging, and using the pre-war
   knowledge they can find to rebuild without repeating the mistakes that led to
@@ -64,48 +68,46 @@ Choose from:
   more or less collaborating agencies of self appointed lawmakers, courts, and
   law enforcement
 
-* Any number of **Outlaw crews** which seem innevitable in times of indipendant
-  cities separated by large swaths of lawless landscape
+In addition to them, there are of course any number of **Outlaw crews** which
+seem innevitable in times of indipendant cities separated by large swaths of
+lawless landscape.
 
 ## Player Principles
 
-<!--- separate aims and player principles --->
+Your aim to see your character express their moral understanding in the world. 
 
-Your aim is to see your character progress their faction adgenda in each town
-that they visit
+Your aim is to find out who your character really is in this fledgling,
+recovering, world and to see what they make of it.
 
-Your aim is to play to find out who your character really is in this fledgling,
-recovering, world and what they make of it.
+Your aim is to see your character put their mark on the world as it recovers
+and to survive to find their place in it.
 
-Your aim is to see your character put their mark on the world as it recovers;
-to survive and to find their place in it.
-
-The tone of Rust in the Canyon can swing from heavy, pescimistic, and gritty to
-lilghtharted and optimistic. It works best to take the situations that the
-characters and towns find themselves in seriously and avoid slapstick or zany
-antics, though humor can be good, try to bring the tone back to a serious and
-honest examination of the town and the chracters situations if the humor
-spirals the table away from that. 
+The tone of Rust in the Canyon can swing from heavy, pesimistic, nhilistic, or
+gritty to lilghtharted, humorous, or optimistic. It works best to take the
+situations that the characters and towns find themselves in seriously and avoid
+slapstick or zany antics, though humor can be good, try to bring the tone back
+to a serious and honest examination of the town and the chracters situations if
+the humor spirals the table away from that. 
 
 Rust in the Canyon includes themes of survival, crime, violence, oppression,
 poverty, religion, despiration, power dynamics, conflict.
 
 # Tuning Your World
 
-The game provides a basic premise and sketch of a setting play but the world is
-yours and so is responsiblity for creating it peice by peice as you play. In
-this section you'll tune the setting of Rust in the Canyon for your specific
-game.
+The game provides a basic premise and sketch of a setting to play in but the
+world is yours and so is responsiblity for creating it peice by peice as you
+play. In this section you'll tune the setting of Rust in the Canyon for your
+specific game.
 
 Here are some important parts of the game assumes is true for all tables:
 
-* There was an Apocalypse long enough ago that the survivers are resettling the
-  land.
+* There was an Apocalypse long enough ago that the descendants of the survivers
+  are resettling the land.
 * There are no nations or kingdoms. Towns and cities are the largest geographic
   political bodies.
 * The three organizations (Librarians, Universal Spark, and State of Law) are
-  known widely but are not more powerful in any town or city than the town
-  leadership.
+  known widely but are not more powerful in any single town or city than the
+  town leadership.
 * The level of technology and infrastructure known and used by people now is a
   shadow of pre-apocalypse technology and infrastructure.
 
@@ -119,7 +121,7 @@ find and define the space y'all want to play in.
     remaining AIs, are there rumors and conspiracy theories about it or is
     everyone completely unaware?
 
-2. Decide how much power each of the three organizations have.
+2. Decide how much power each of the organizations have.
   * Are the Librarians known by most people or just a few? Are they generally
     respected, feared, or mocked? Are members in positions of power in most
     places, just a few, or none at all?
@@ -129,9 +131,9 @@ find and define the space y'all want to play in.
   * Is the State of Law known by most people or just a few? Are they generally
     respected, feared, or mocked? Are members in positions of power in most
     places, just a few, or none at all?
-  * Are there any outlaw gangs known by most people or just a few? Are they
-    generally respected, feared, or mocked? Are members in positions of power
-    in most places, just a few, or none at all?
+  * Are there any outlaw gangs known by most people? Are they generally
+    respected, feared, or mocked? Are members in positions of power in most
+    places, just a few, or none at all?
 
 3. Decide how much technology and infrastructure has been rediscovered or
    reinvented (or newly invented even).
@@ -144,21 +146,71 @@ find and define the space y'all want to play in.
 
 #  Creating Characters
 
- Everyone will play a character that's a member of the same faction working
- together for that faction goals. Decide with your group which faction the
- players will be members of.
+1. Beleifs
+2. Bonds
+3. Stats
 
-* The Librarians
-* The Universal Spark
-* The State of Law
-* An Outlaw crew
+## Beleifs
 
-1. Assign 1, 2, and 3 to their Mind, Body, and Grip stats.
-2. Describe your hat, coat, and grip (deadly weapon)
-3. Describe your vice (vice, guilty pleasure, what lets you unwind the best)
-3. Choose a trait from the trait deck (If I've made it, otherwise do without)  
+Write a belief like you would in Burning Wheel but don't tell anyone until you
+invoke it. You can change it at any time if you want. But if you wait until a
+dramatic moment to reveal it and the change you get a mechanical benefit.
+
+*/
+
+Invoking a beleif gives a bonus
+
+Changing a beleif is putting on a crown like CfB
+
+*/
+
+## Bonds
+
+// TODO when we have a bigger party to test with
+
+## Stats
+
+1. Assign 1, 2, and 3 to your Mind, Body, and Grip stats.
+2. Describe your topper (hat), dustcutter (coat, dress, cloak), and grip (deadly weapon)
 
 # Playing the game
+
+/*
+
+Rewrite these phases to be the MICE thing. Towns are a Mileau, they have
+event/mystery at them, and characters change while handling them.
+
+so we enter a town with a scene setting procedure
+
+* What's strange and new about this town (in town prep and set the stage
+  questions)
+  * What obstacle, mystery, or event, threatens the order of the world (per CfB
+    mysteries)
+    * How are the characters dissatisfied with their role? (set the stage, what
+      makes you an outsider here?)
+
+Through play we resolve these in reverse order while playing scenes, making
+moves, and having conflicts
+
+Moves: Conflict, read a person/situation, Make and impression, Put in the work.
+
+Need a way to find "clues" maybe anyone can write a clue when it feels like one?
+Or every move makes clues. conflicts through fallout, read a person/sitch by noticing things, 
+
+* What new role, or contentment, or despair, do the characters find? making this
+  "theorize" move success means you've earned that role in town, fail you
+  choose contentment with another lesser role or despair.
+  * How do they overcome the obstacle, solve the mystery, restore order? this
+    move is basically exactly theorize, success you've solved it, failure
+    you've got more work to do.
+    * How do they find familiarity or comfort in this now not so new town?
+    * Or do they leave and find familiartiy and comfort in the open road to
+      somewhere new? These two may be part of a third "theorize" move. How did
+      you change the town for the better? failure means it's changed for the
+      worse. Either way the narrative is moving on to the next town, with these
+      characters or without them
+
+*/
 
 This section **should** be written directly to players. "You" in this section
 should refer to a player. I doubt it does. needs editing.
@@ -226,8 +278,6 @@ heal injuries and recover stress.
 
 Towns have a stack. It represents the balance of effect that the town has had
 on the players and that the players have had on the town.
-
-
 
 ### What about? And Notes.
 

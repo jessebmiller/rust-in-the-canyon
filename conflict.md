@@ -98,6 +98,8 @@ descriptions of each step.
 
 4. Say what you're doing then reveal what you prepared for. 
 
+   // swap the order of prepared for and what they're doing to match the rules
+
    What everyone is doing, what they're prepared for:
    Sherrif and Deputy: prepared for deadly, waiting.
    You: prepared for non-physical, you shout "We'll be going now with the one
@@ -168,10 +170,10 @@ descriptions of each step.
 8. Everyone decides if they want to bet and how much. Bets are limited by
    escilation level - 1 for **Non-physical**, 2 for **Physical**, 3 for
    **Deadly**. Anyone who wants to stay in the conflict must match the highest
-   bet. Anyone who did may hit (deal themself another card face up) or they may
-   stay. Anyone who didn't must back down and give up the stakes, then take
-   fallout. Narrate what happens then repeat this step until someone wins the
-   hand (ties go to the GM).
+   bet. Anyone who did may hit (deal themself another card face up from the
+   deck or reserve hand) or they may stay. Anyone who didn't must back down and
+   give up the stakes, then take fallout. Narrate what happens then repeat this
+   step until someone wins the hand (ties go to the GM).
 
    The GM has a better hand, and they're confident in their reserve hand so
    they bet 1 chip. You decide you've got a good enough hand to keep going so
@@ -232,6 +234,18 @@ get fallout? How does that happen? What do you do now?
 
 ## Fallout tables
 
+/*
+
+completely rework fallout to be narative rather than mechanical. fallout should
+be fictional things that change the character outside the players control.
+These fictional things should then feed back into either the phases of play
+system or the conflict system. 
+
+Social is the fruitful void? no specific social domain of conflict because
+everything is social, everything has social fallout. 
+
+*/
+
 ### Non-physical
 
 Face or Ace high card: take 2 stress
@@ -252,7 +266,7 @@ Face or Ace high card:       You are minorly injured (mortal)
 Pair:                        You are moderately injured (permenant minor, mortal)
 Two pair:                    You are majorly injured (permenant moderate, moratl)
 Three of a kind:             You are majorly injured (permenant major, mortal)
-Face or Ace three of a kind: You are dead. You decide howi and when you die, but it's got to be this session.
+Face or Ace three of a kind: You are dead. You decide how and when you die, but it's got to be this session.
 
 ### Injury, and Death
 
