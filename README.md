@@ -160,7 +160,6 @@ find and define the space y'all want to play in.
 
 ## Beleifs
 
-<<<<<<< HEAD:test-doc.md
 Write a belief like you would in Burning Wheel but don't tell anyone until you
 invoke it. You can change it at any time if you want. But if you wait until a
 dramatic moment to reveal it and the change you get a mechanical benefit.
