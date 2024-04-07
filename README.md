@@ -160,9 +160,11 @@ find and define the space y'all want to play in.
 
 ## Beleifs
 
-Write a belief like you would in Burning Wheel but don't tell anyone until you
-invoke it. You can change it at any time if you want. But if you wait until a
-dramatic moment to reveal it and the change you get a mechanical benefit.
+Write a belief. You can change it at any time if you want. It should be personal, specific, and testable. The GM should be able to challenge it.
+
+Not things like "ghosts" or "miracles"
+
+but things like "I must protect the innocent at all costs" or "I'll rid the land of cheaters" (It's a good bet beliefs start with "I")
 
 */
 
