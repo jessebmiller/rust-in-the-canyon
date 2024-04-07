@@ -7,7 +7,7 @@ authors notes
 
 # Design Goals
 
-The game is about: 
+The game is about:
 
 * Investigating the human condition at different interacting scales. small
   groups, towns, cities, and larger political structures.
@@ -18,6 +18,14 @@ The game is about:
 * Exploring the folly of youthful moral richousness
   * Or instead... youthful exploration of morality and justice
 * The interaction between various kinds of power. Mental, Social, Violent.
+
+# Contents
+
+This document is still in an early draft state. General information is in this file.
+
+* [Moves](./moves.md)
+* [Conflict, fallout, and injury](./conflict.md)
+* [Towns](./towns.md)
 
 # Rust in the Canyon
 
@@ -138,11 +146,11 @@ find and define the space y'all want to play in.
 3. Decide how much technology and infrastructure has been rediscovered or
    reinvented (or newly invented even).
   * Are there radio communications between cities? How big are the cities that
-    have radios and radio operators? How many? How rare? 
+    have radios and radio operators? How many? How rare?
   * Are there moterized vehicals and tools? How many people can afford a car?
   * How good are the roads?
   * Is there a telegraph? Which towns have it? How much electrical power is
-    there? 
+    there?
 
 #  Creating Characters
 
@@ -152,6 +160,7 @@ find and define the space y'all want to play in.
 
 ## Beleifs
 
+<<<<<<< HEAD:test-doc.md
 Write a belief like you would in Burning Wheel but don't tell anyone until you
 invoke it. You can change it at any time if you want. But if you wait until a
 dramatic moment to reveal it and the change you get a mechanical benefit.
@@ -243,7 +252,7 @@ stack size will be lost when you reset to your base stack size when visiting
 the next town, so spend em if ya got em.
 
 I haven't figured out costs and such, but take a look at what you've got and
-see what feels fair. Let me know how you handled it! 
+see what feels fair. Let me know how you handled it!
 
 ## Running the game
 
